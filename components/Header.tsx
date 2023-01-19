@@ -22,7 +22,7 @@ export default function Header() {
                 }
               )}
             >
-              d.
+              technosheen
             </div>
           </Link>
         </div>
