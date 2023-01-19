@@ -15,13 +15,13 @@
 1. Clone this repo
 
 ```bash
-git clone git@github.com:dlarroder/dalelarroder.git
+git clone git@github.com:lighthouse-sean/next-technosheen-main.git
 ```
 
 2. Change directory
 
 ```sh
-cd next-technosheen
+cd next-technosheen-main
 ```
 
 3. Install yarn packages
