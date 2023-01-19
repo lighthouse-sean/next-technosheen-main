@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Software Developer at Lighthouse Creative Group',
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://next-technosheen-63be8ow0i-lighthouse-sean.vercel.app',
+  siteUrl: 'https://next-technosheen.vercel.app',
   siteRepo: 'https://github.com/lighthouse-sean/next-technosheen-main',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.webp',
