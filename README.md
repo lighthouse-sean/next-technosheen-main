@@ -30,7 +30,7 @@ cd next-technosheen
 yarn
 ```
 
-1. Create a `.env.local` file following the `.env.example`
+1. Create a `.env.local` file following the `.env.example` 
 
 ```bash
 cp .env.example .env.local
