@@ -19,19 +19,19 @@ export const workTiles: WorkTile[] = [
     },
   },
   {
-    description: 'I built',
-    title: 'Aphex Field',
+    description: 'I helped build and animate',
+    title: 'Bakkt',
     image: {
-      src: '/static/images/field-app.webp',
+      src: '/static/images/bakkt.webp',
       width: 600,
-      height: 554,
+      height: 717,
     },
   },
   {
-    description: `I maintained`,
-    title: 'Aphex Planner',
+    description: `I maintain the`,
+    title: 'Alexa Developer Blog',
     image: {
-      src: '/static/images/planner-app.webp',
+      src: '/static/images/alexa-dev.webp',
       width: 600,
       height: 717,
     },
