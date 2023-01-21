@@ -38,9 +38,9 @@ export const workTiles: WorkTile[] = [
   },
   {
     description: `I built`,
-    title: 'Aphex Publication',
+    title: 'Elastic Decemberfest',
     image: {
-      src: '/static/images/publication-app.webp',
+      src: '/static/images/decemberfest.webp',
       width: 600,
       height: 717,
     },
