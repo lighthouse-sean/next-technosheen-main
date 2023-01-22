@@ -17,16 +17,16 @@ export default function AuthorLayout({ children, content }: Props) {
       <div className="pt-8">
         <div className="mb-8 flex flex-col-reverse items-center justify-between sm:flex-row sm:items-center">
           <div className="text-center sm:text-left">
-            <h1 className="text-xl font-bold md:text-3xl lg:text-4xl">Dale Larroder</h1>
+            <h1 className="text-xl font-bold md:text-3xl lg:text-4xl">Sean Mahoney</h1>
             <h2 className="text-sm font-normal md:text-base">
               {occupation} <span className="font-semibold">{company}</span>
             </h2>
           </div>
           <div>
             <Image
-              alt="Dale Larroder"
-              height={130}
-              width={130}
+              alt="Sean Mahoney"
+              height={150}
+              width={150}
               src={avatar || ''}
               className="rounded-full object-scale-down grayscale"
             />
