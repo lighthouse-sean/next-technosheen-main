@@ -2,6 +2,7 @@ import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
 import type { Authors } from 'contentlayer/generated'
 import { ReactNode } from 'react'
+import { AboutHero } from 'components/AboutHero'
 
 interface Props {
   children: ReactNode
@@ -28,7 +29,7 @@ export default function AuthorLayout({ children, content }: Props) {
               height={150}
               width={150}
               src={avatar || ''}
-              className="rounded-full object-scale-down grayscale"
+              className="rounded-full object-scale-down"
             />
           </div>
         </div>
