@@ -2,7 +2,6 @@ import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
 import type { Authors } from 'contentlayer/generated'
 import { ReactNode } from 'react'
-import { AboutHero } from 'components/AboutHero'
 
 interface Props {
   children: ReactNode
